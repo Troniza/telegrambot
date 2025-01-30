@@ -1,0 +1,9 @@
+{
+    "token": "8065005238:AAFgqXpETKnelfxxte7fYvyFxErQMUVACp0",
+    "sponsor_channels": [
+      {"name": "This is ermia", "id": "@theermia", "link": "https://t.me/theermia"}
+    ],
+    "invoices": "invoices.db",
+    "users": "users.db"
+  }
+  
